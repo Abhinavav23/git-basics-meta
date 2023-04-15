@@ -1,0 +1,12 @@
+line 1
+
+git init --> initialised a git repo
+git remote add origin [origin name]
+git status
+git add [filename]
+git commit -m "message"
+git push origin master
+
+
+
+
