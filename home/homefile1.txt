@@ -15,3 +15,11 @@ git checkout [branch-name]
 -- to see the diff--
 git diff
 git diff --staged
+
+
+ ---- clone ---
+ git clone https://github.com/Abhinavav23/git-basics-meta.git
+
+-- pull --
+git pull
+git pull origin [branch name]
