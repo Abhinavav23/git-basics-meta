@@ -25,3 +25,7 @@ git diff --staged
 -- pull --
 git pull
 git pull origin [branch name]
+
+--merge--
+git merge [branch name]
+merge using pull request --> raising a PR, and merging in master
