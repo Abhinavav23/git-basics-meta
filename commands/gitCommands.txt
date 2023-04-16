@@ -5,7 +5,10 @@ git remote add origin [origin name]
 git status
 git add [filename]
 git commit -m "message"
+
+--push---
 git push origin master
+git push origin feature-footer -f
 
  ---branches---
 git branch [branch-name] --> creates a branch
@@ -25,3 +28,10 @@ git diff --staged
 -- pull --
 git pull
 git pull origin [branch name]
+
+--reset a commit--
+git reset commit id
+
+--log--
+git log 
+git log --oneline
