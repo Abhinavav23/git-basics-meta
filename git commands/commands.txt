@@ -10,7 +10,9 @@ git push origin master
  ---branches---
 git branch [branch-name] --> creates a branch
 git branch --> shows all the branches/ git branch --list
-git checkout [branch-name]
+git checkout [branch-name] --> switch to that branch
+git checkout -b [branch name] --> create a new branch and switch to that
+git branch -d [branch name] --> delete a branch
 
 -- to see the diff--
 git diff
